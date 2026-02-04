@@ -2,3 +2,4 @@
 Pull Test 를 위해
 Remote Repository 에서 생성한 파일 입니다.
 newBranch01 에서 추가 합니다 ~~ => 병합1 Test
+newBranch01 에서 추가 합니다 ~~ => 병합2 Test
